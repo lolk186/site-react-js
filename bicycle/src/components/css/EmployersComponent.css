@@ -1,39 +1,39 @@
-.man_bike{
+.emp_img{
     width: 800px;
     margin-top: 100px;
     margin-left: 40px;
     margin-bottom: 100px;
 }
-.div{
+.div_emp{
     font-family: Raleway;
     display: flex;
     align-items: center;
 
 }
-.text{
-    margin-left: 240px
-}
-.p{
+.p_emp1{
     font-size: 50px;
     font-weight: 500;
     line-height: 50px;
     margin-bottom: 20px;
 }
-.p1{
+.p_emp2{
     font-size: 20px;
 }
-.but_3{
+.but_emp{
     border: none;
     background-color: white ;
     font-family: Raleway;
     width: 17%;
     height: 25px;
 }
-.but_3:hover{
+.but_emp:hover{
     background-color: rgb(220,220,220) ;
     border-radius: 5px;
     cursor: pointer; 
 }
-.but_3:active{
+.but_emp:active{
     background-color: grey;
+}
+.text_emp{
+    margin-left: 240px;
 }
