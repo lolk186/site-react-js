@@ -7,6 +7,10 @@ import ServiceComponent from './components/ServiceComponent';
 import EmployersComponent from './components/EmployersComponent';
 import HITComponent from './components/HITComponent';
 import BikesComponent from './components/BikesComponent';
+import GitComponent from './components/GitComponent';
+import FaqComponent from './components/FaqComponent';
+import BNComponent from './components/BNComponent';
+import FooterComponent from './components/FooterComponent';
 
 function App() {
   return (
@@ -18,6 +22,10 @@ function App() {
         <EmployersComponent/>
         <HITComponent/>
         <BikesComponent/>
+        <GitComponent/>
+        <FaqComponent/>
+        <BNComponent/>
+        <FooterComponent/>
     </div>
   );
 }

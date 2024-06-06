@@ -13,7 +13,7 @@ import right from "../images/Vector(1).png"
 function BikesComponent() {
   return (
     <div class="main_div">
-      <div>
+      <div class="div_main_ace">
         <div class='div_ace'>
         <p class='t1'>Electric Ace&nbsp; <sup class="sup">Two</sup></p>
         <p class='t2'>€69,07 NET/MONTH</p>
