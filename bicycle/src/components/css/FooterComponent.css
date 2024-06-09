@@ -89,6 +89,14 @@
 .input_checkbox{
     accent-color: black;
 }
+.input_checkbox[type="checkbox"]:not(:checked) {
+    background-color: black;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px; /* или любой другой размер */
+    height: 16px; /* или любой другой размер */
+    margin-top: 16.5px;
+}
 .social{
     display: flex;
     justify-content: space-between;
